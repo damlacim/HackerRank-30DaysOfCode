@@ -2,7 +2,7 @@
 
 Hey folks! ✨
 
-I started doing HackerRank's 30-day challenge to improve my coding skills. 
+I started doing HackerRank's 30-day challenge to improve my basic coding skills. 
 
 You can find the questions and the codes I wrote below.
 
