@@ -12,4 +12,5 @@ You can find the questions and the codes I wrote below.
 * Day 3: Intro to Conditional Statements | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements?isFullScreen=true) | [Solution](https://github.com/damlacim/HackerRank-30DaysOfCode/blob/main/SwiftPlayground.playground/Pages/Day3.xcplaygroundpage/Contents.swift)
 * Day 4: Class vs. Instance | [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true) | [Solution](https://github.com/damlacim/HackerRank-30DaysOfCode/blob/main/SwiftPlayground.playground/Pages/Day4.xcplaygroundpage/Contents.swift)
 * Day 5: Loops | [Problem](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true) | [Solution](https://github.com/damlacim/HackerRank-30DaysOfCode/blob/main/SwiftPlayground.playground/Pages/Day5.xcplaygroundpage/Contents.swift)
-* Day 6: Let's Review | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true)
+* Day 6: Let's Review | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true) | [Solution](https://github.com/damlacim/HackerRank-30DaysOfCode/blob/main/SwiftPlayground.playground/Pages/Day6.xcplaygroundpage/Contents.swift)
+* Day 7: Arrays | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
